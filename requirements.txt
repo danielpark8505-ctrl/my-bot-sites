@@ -1,3 +1,4 @@
 flask
 telebot
 requests
+gunicorn
